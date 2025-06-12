@@ -1,4 +1,4 @@
-module golang-lib
+module github.com/tatun2000/golang-lib
 
 go 1.24.4
 
